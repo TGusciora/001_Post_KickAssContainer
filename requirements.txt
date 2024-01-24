@@ -1,0 +1,11 @@
+matplotlib==3.6.3
+mplfinance==0.12.9b7
+numpy==1.24.1
+pandas==1.5.3
+scipy==1.10.0
+session_info==1.0.0
+IPython==8.8.0
+jupyter_client==7.4.9
+jupyter_core==4.11.1
+jupyterlab==3.4.4
+notebook==6.4.12
